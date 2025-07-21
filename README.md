@@ -1,2 +1,2 @@
-# Pythonmenu.py-app
+# Pythonmenu.py
 A simple menu-based streamlit app
